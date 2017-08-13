@@ -1,0 +1,65 @@
+html, body {
+    width: 100%;
+    height: 100%;
+
+    overflow: hidden;
+}
+
+body {
+    margin: 0px;
+
+    color: black;
+    background-color: whitesmoke;
+
+    font-size: 10pt;
+    font-family: arial;
+}
+
+table.Main {
+    width: 100%;
+    height: 100%;
+
+    border-spacing: 0px;
+}
+
+td.Main {
+    padding: 0px;
+    vertical-align: middle;
+}
+
+img.Map {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.Data {
+    margin-left: auto;
+    margin-right: auto;
+    visibility: hidden;
+    border-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+table._Data {
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+td.Header {
+    text-align: center;
+    background-color: gainsboro;
+    padding: 5px;
+    width: 100px;
+}
+
+td.Data {
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    font-size: 8pt;
+}

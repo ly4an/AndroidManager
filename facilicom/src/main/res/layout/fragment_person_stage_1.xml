@@ -1,0 +1,38 @@
+<RelativeLayout
+	style="?attr/appBackground"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<TextView
+		android:id="@+id/caption"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_margin="5dp"
+		android:gravity="center"
+		android:text="@string/personal_stage_1_caption"
+		android:textColor="@color/black"
+		android:textSize="18sp"/>
+
+	<ru.facilicom24.manager.views.FontButton
+		android:id="@+id/next"
+		style="?attr/formButton"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_margin="10dp"
+		android:text="@string/personal_stage_1_next"/>
+
+	<ListView
+		android:id="@+id/form"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_above="@id/next"
+		android:layout_below="@id/caption"
+		android:cacheColorHint="@android:color/transparent"
+		android:divider="@android:color/transparent"
+		android:dividerHeight="1dp"
+		android:keepScreenOn="true"
+		android:listSelector="@android:color/transparent"/>
+
+</RelativeLayout>

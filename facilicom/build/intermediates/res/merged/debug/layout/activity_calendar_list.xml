@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	style="?attr/appBackground"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context="ru.facilicom24.manager.activities.CalendarListActivity">
+
+	<fragment
+		android:id="@+id/captionFragment"
+		android:name="ru.facilicom24.manager.fragments.CaptionSimpleFragment"
+		android:layout_width="match_parent"
+		android:layout_height="45dp"
+		tools:layout="@layout/fragment_caption"/>
+
+	<RelativeLayout
+		android:id="@+id/captionLinearLayout"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/captionFragment">
+
+		<ru.facilicom24.manager.views.FontTextView
+			android:id="@+id/titleFontTextView"
+			style="@style/BoldBaseText18sp"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_centerInParent="true"
+			android:layout_margin="10dp"
+			android:text="Дата"/>
+
+		<ImageButton
+			android:id="@+id/backDayImageButton"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:background="@android:color/transparent"
+			android:contentDescription="@string/no_description"
+			android:padding="10dp"
+			android:src="@drawable/back"/>
+
+		<ImageButton
+			android:id="@+id/nextDayImageButton"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentEnd="true"
+			android:layout_alignParentRight="true"
+			android:background="@android:color/transparent"
+			android:contentDescription="@string/no_description"
+			android:padding="10dp"
+			android:src="@drawable/next"/>
+
+	</RelativeLayout>
+
+	<ru.facilicom24.manager.views.FontButton
+		android:id="@+id/newAppointmentFontButton"
+		style="?attr/formButton"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_margin="10dp"
+		android:text="@string/calendar_new_appointment"/>
+
+	<ListView
+		android:id="@+id/appointmentsListView"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_above="@id/newAppointmentFontButton"
+		android:layout_below="@id/captionLinearLayout"
+		android:cacheColorHint="@android:color/transparent"
+		android:divider="@android:color/transparent"
+		android:dividerHeight="5dp"
+		android:keepScreenOn="true"
+		android:visibility="gone"/>
+
+	<TextView
+		android:id="@+id/noAppointmentsTextView"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/captionLinearLayout"
+		android:background="@color/white"
+		android:gravity="center"
+		android:padding="10dp"
+		android:text="@string/calendar_list_empty"
+		android:textColor="@color/red"
+		android:visibility="gone"/>
+
+</RelativeLayout>

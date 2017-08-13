@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="white">#FFFFFF</color>
+	<color name="white_60_alpha">#99FFFFFF</color>
+	<color name="black">#000000</color>
+	<color name="light_gray">#C3C4C4</color>
+	<color name="dark_gray">#969696</color>
+	<color name="orange">#ED7E0B</color>
+	<color name="green">#32CD32</color>
+	<!--
+
+	Max
+
+	-->
+	<color name="red">#FF0000</color>
+	<color name="darkOrange">#FF8C00</color>
+	<color name="gainsboro">#DCDCDC</color>
+	<color name="whiteSmoke">#F5F5F5</color>
+	<color name="whiteSmokeDark">#EAEAEA</color>
+	<color name="holo_blue_light">#ff33b5e5</color>
+	<color name="grayColor">#E0E0E0</color>
+</resources>

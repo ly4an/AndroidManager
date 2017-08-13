@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-times-square-1.7.3">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/d24f7a274dd0092db6501e696d08043daa967b89/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/d24f7a274dd0092db6501e696d08043daa967b89/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup/android-times-square/1.7.3/519c30077be8d99de229a644fc4c237a78c3f069/android-times-square-1.7.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	style="?attr/appBackground"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<fragment
+		android:id="@+id/captionFragment"
+		android:name="ru.facilicom24.manager.fragments.CaptionFragment"
+		android:layout_width="match_parent"
+		android:layout_height="45dp"
+		tools:layout="@layout/fragment_caption"/>
+
+	<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@id/captionFragment">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical"
+			android:padding="10dp">
+
+			<ru.facilicom24.manager.views.FontTextView
+				style="@style/BoldWhiteText14sp"
+				android:layout_width="fill_parent"
+				android:layout_height="0dp"
+				android:layout_marginBottom="10dp"
+				android:layout_weight="0.5"
+				android:gravity="center"
+				android:text="@string/interactions"
+				android:textColor="@color/black"
+				android:textSize="18sp"/>
+
+			<LinearLayout
+				android:id="@+id/steps"
+				style="?attr/panelBackground"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:gravity="center"
+				android:orientation="vertical"
+				android:padding="10dp">
+
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="10dip"
+				android:background="@color/white"
+				android:orientation="vertical">
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="3dp"
+					android:orientation="horizontal">
+
+					<ru.facilicom24.manager.views.FontTextView
+						style="@style/BoldWhiteText14sp"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="0.5"
+						android:gravity="center"
+						android:text="@string/confirmation_mark"
+						android:textColor="@color/black"/>
+
+				</LinearLayout>
+
+				<RatingBar
+					android:id="@+id/actRatingBar1"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_gravity="center_horizontal"
+					android:layout_marginBottom="5dip"
+					android:layout_marginTop="5dip"
+					android:indeterminateOnly="false"
+					android:numStars="4"
+					android:stepSize="1"/>
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="3dp"
+					android:orientation="horizontal">
+
+					<ru.facilicom24.manager.views.FontTextView
+						android:id="@+id/value_description"
+						style="@style/BoldWhiteText14sp"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="0.5"
+						android:gravity="center"
+						android:textColor="@color/black"/>
+
+				</LinearLayout>
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="10dip"
+				android:background="@color/white"
+				android:orientation="vertical">
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="3dp"
+					android:orientation="horizontal">
+
+					<ru.facilicom24.manager.views.FontTextView
+						style="@style/BoldWhiteText14sp"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="0.5"
+						android:gravity="center"
+						android:text="@string/confirmation_expand"
+						android:textColor="@color/black"/>
+				</LinearLayout>
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_gravity="center_horizontal"
+					android:orientation="horizontal">
+
+					<RadioButton
+						android:id="@+id/actRadioButton1"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_weight="1"
+						android:text="@string/confirmation_yes"
+						android:textColor="@color/black"/>
+
+					<RadioButton
+						android:id="@+id/actRadioButton2"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_weight="1"
+						android:text="@string/confirmation_no"
+						android:textColor="@color/black"/>
+
+					<RadioButton
+						android:id="@+id/actRadioButton3"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_weight="1"
+						android:text="@string/confirmation_dontknow"
+						android:textColor="@color/black"/>
+
+				</LinearLayout>
+			</LinearLayout>
+
+			<LinearLayout
+				style="?attr/panelBackground"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="10dp"
+				android:orientation="vertical"
+				android:padding="10dp">
+
+				<TextView
+					style="?attr/panelText"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:gravity="center"
+					android:text="@string/confirmation_mark_client"/>
+
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="10dip"
+				android:background="@color/white"
+				android:orientation="vertical">
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="3dp"
+					android:orientation="horizontal">
+
+					<ru.facilicom24.manager.views.FontTextView
+						style="@style/BoldWhiteText14sp"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="0.5"
+						android:gravity="center"
+						android:text="@string/confirmation_quality"
+						android:textColor="@color/black"/>
+
+				</LinearLayout>
+
+				<RatingBar
+					android:id="@+id/actRatingBar2"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_gravity="center_horizontal"
+					android:layout_marginBottom="5dip"
+					android:layout_marginTop="5dip"
+					android:numStars="4"
+					android:stepSize="1"/>
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="3dp"
+					android:orientation="horizontal">
+
+					<ru.facilicom24.manager.views.FontTextView
+						android:id="@+id/quality_description"
+						style="@style/BoldWhiteText14sp"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="0.5"
+						android:gravity="center"
+						android:textColor="@color/black"/>
+
+				</LinearLayout>
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="10dip"
+				android:background="@color/white"
+				android:orientation="vertical">
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="3dp"
+					android:orientation="horizontal">
+
+					<ru.facilicom24.manager.views.FontTextView
+						style="@style/BoldWhiteText14sp"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="0.5"
+						android:gravity="center"
+						android:text="@string/confirmation_operative"
+						android:textColor="@color/black"/>
+
+				</LinearLayout>
+
+				<RatingBar
+					android:id="@+id/actRatingBar3"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_gravity="center_horizontal"
+					android:layout_marginBottom="5dip"
+					android:layout_marginTop="5dip"
+					android:numStars="4"
+					android:stepSize="1"/>
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="3dp"
+					android:orientation="horizontal">
+
+					<ru.facilicom24.manager.views.FontTextView
+						android:id="@+id/speed_description"
+						style="@style/BoldWhiteText14sp"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="0.5"
+						android:gravity="center"
+						android:textColor="@color/black"/>
+
+				</LinearLayout>
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="10dip"
+				android:background="@color/white"
+				android:orientation="vertical">
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="3dp"
+					android:orientation="horizontal">
+
+					<ru.facilicom24.manager.views.FontTextView
+						style="@style/BoldWhiteText14sp"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="0.5"
+						android:gravity="center"
+						android:text="@string/confirmation_continue"
+						android:textColor="@color/black"/>
+				</LinearLayout>
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_gravity="center_horizontal"
+					android:orientation="horizontal">
+
+					<RadioButton
+						android:id="@+id/actRadioButton4"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_weight="1"
+						android:text="@string/confirmation_yes"
+						android:textColor="@color/black"/>
+
+					<RadioButton
+						android:id="@+id/actRadioButton5"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_weight="1"
+						android:text="@string/confirmation_no"
+						android:textColor="@color/black"/>
+
+					<RadioButton
+						android:id="@+id/actRadioButton6"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_weight="1"
+						android:text="@string/confirmation_dontknow"
+						android:textColor="@color/black"/>
+
+				</LinearLayout>
+			</LinearLayout>
+
+			<LinearLayout
+				style="?attr/panelBackground"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="10dp"
+				android:orientation="vertical"
+				android:padding="10dp">
+
+				<TextView
+					style="?attr/panelText"
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:gravity="center"
+					android:text="@string/confirmation_mark_manager"/>
+
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="10dip"
+				android:background="@color/white"
+				android:orientation="vertical">
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="3dp"
+					android:orientation="horizontal">
+
+					<ru.facilicom24.manager.views.FontTextView
+						style="@style/BoldWhiteText14sp"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="0.5"
+						android:gravity="center"
+						android:text="@string/confirmation_quality"
+						android:textColor="@color/black"/>
+
+				</LinearLayout>
+
+				<RatingBar
+					android:id="@+id/actRatingBar4"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_gravity="center_horizontal"
+					android:layout_marginBottom="5dip"
+					android:layout_marginTop="5dip"
+					android:numStars="4"
+					android:stepSize="1"/>
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="3dp"
+					android:orientation="horizontal">
+
+					<ru.facilicom24.manager.views.FontTextView
+						android:id="@+id/_quality_description"
+						style="@style/BoldWhiteText14sp"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="0.5"
+						android:gravity="center"
+						android:textColor="@color/black"/>
+
+				</LinearLayout>
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="10dip"
+				android:background="@color/white"
+				android:orientation="vertical">
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="3dp"
+					android:orientation="horizontal">
+
+					<ru.facilicom24.manager.views.FontTextView
+						style="@style/BoldWhiteText14sp"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="0.5"
+						android:gravity="center"
+						android:text="@string/confirmation_operative"
+						android:textColor="@color/black"/>
+
+				</LinearLayout>
+
+				<RatingBar
+					android:id="@+id/actRatingBar5"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_gravity="center_horizontal"
+					android:layout_marginBottom="5dip"
+					android:layout_marginTop="5dip"
+					android:numStars="4"
+					android:stepSize="1"/>
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="3dp"
+					android:orientation="horizontal">
+
+					<ru.facilicom24.manager.views.FontTextView
+						android:id="@+id/_speed_description"
+						style="@style/BoldWhiteText14sp"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="0.5"
+						android:gravity="center"
+						android:textColor="@color/black"/>
+
+				</LinearLayout>
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="10dip"
+				android:background="@color/white"
+				android:orientation="vertical">
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginBottom="3dp"
+					android:orientation="horizontal">
+
+					<ru.facilicom24.manager.views.FontTextView
+						style="@style/BoldWhiteText14sp"
+						android:layout_width="0dp"
+						android:layout_height="wrap_content"
+						android:layout_weight="0.5"
+						android:gravity="center"
+						android:text="@string/confirmation_continue"
+						android:textColor="@color/black"/>
+
+				</LinearLayout>
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:layout_gravity="center_horizontal"
+					android:orientation="horizontal">
+
+					<RadioButton
+						android:id="@+id/actRadioButton7"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_weight="1"
+						android:text="@string/confirmation_yes"
+						android:textColor="@color/black"/>
+
+					<RadioButton
+						android:id="@+id/actRadioButton8"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_weight="1"
+						android:text="@string/confirmation_no"
+						android:textColor="@color/black"/>
+
+					<RadioButton
+						android:id="@+id/actRadioButton9"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:layout_weight="1"
+						android:text="@string/confirmation_dontknow"
+						android:textColor="@color/black"/>
+
+				</LinearLayout>
+			</LinearLayout>
+
+			<ru.facilicom24.manager.views.FontButton
+				android:id="@+id/newTask"
+				style="?attr/formButton"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_marginTop="10dp"
+				android:text="@string/confirmation_create_act"/>
+
+		</LinearLayout>
+	</ScrollView>
+</RelativeLayout>

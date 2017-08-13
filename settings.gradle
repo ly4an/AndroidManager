@@ -1,0 +1,4 @@
+include ':MyDaoGenerator'
+include ':facilicom'
+
+include ':gestureimageview'

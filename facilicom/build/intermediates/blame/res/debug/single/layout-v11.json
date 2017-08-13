@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]

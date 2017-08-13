@@ -1,0 +1,34 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@color/dark_gray"
+	android:gravity="center"
+	android:minWidth="240dp"
+	android:orientation="vertical"
+	android:padding="10dp">
+
+	<ru.facilicom24.manager.views.FontButton
+		android:id="@+id/save_btn"
+		style="?attr/menuButton"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginBottom="10dp"
+		android:text="@string/save"/>
+
+	<ru.facilicom24.manager.views.FontButton
+		android:id="@+id/send_btn"
+		style="?attr/menuButton"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginBottom="10dp"
+		android:text="@string/send"/>
+
+	<ru.facilicom24.manager.views.FontButton
+		android:id="@+id/delete_btn"
+		style="?attr/menuButton"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/delete"/>
+
+</LinearLayout>

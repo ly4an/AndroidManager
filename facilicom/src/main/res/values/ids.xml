@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item name="check_dialog" type="id"/>
+	<item name="image_dialog" type="id"/>
+	<item name="alert_dialog" type="id"/>
+	<item name="error_dialog" type="id"/>
+	<item name="update_dialog" type="id"/>
+
+	<item name="mobile_send" type="id"/>
+	<item name="mobile_apply" type="id"/>
+	<item name="mobile_delete" type="id"/>
+
+	<item name="error_no_connection_dialog" type="id"/>
+	<item name="error_data_dialog" type="id"/>
+
+	<item name="google_photo_install_dialog" type="id"/>
+	<item name="google_photo_default_dialog" type="id"/>
+</resources>

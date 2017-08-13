@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Facilicom -->
+
+	<style name="Background_1">
+		<item name="android:background">@color/whiteSmoke</item>
+	</style>
+
+	<style name="WhiteOrangeDraw_1">
+		<item name="android:background">@drawable/white_orange_bg_selector</item>
+	</style>
+
+	<style name="Message18_1" parent="@style/MaxMenuMessage18"/>
+
+	<style name="Button24_1" parent="@style/MaxMenuButton24"/>
+
+	<style name="Button18_1" parent="@style/OrangeWhiteBoldText18spBtn"/>
+
+	<style name="ImageButton_1" parent="@style/OrangeWhiteBoldText18spBtn">
+		<item name="android:padding">0dp</item>
+	</style>
+
+	<style name="CaptionBackground_1">
+		<item name="android:background">@color/white</item>
+	</style>
+
+	<style name="CaptionText_1">
+		<item name="android:textColor">@color/orange</item>
+		<item name="android:textSize">20sp</item>
+	</style>
+
+	<style name="PanelBackground_1">
+		<item name="android:background">@color/orange</item>
+	</style>
+
+	<style name="PanelText_1">
+		<item name="android:textSize">18sp</item>
+		<item name="android:textColor">@android:color/white</item>
+	</style>
+
+	<!-- Ritek -->
+
+	<style name="Background_2">
+		<item name="android:background">#B3B3B3</item>
+	</style>
+
+	<style name="WhiteOrangeDraw_2">
+		<item name="android:background">@drawable/white_orange_bg_selector_2</item>
+	</style>
+
+	<style name="Message18_2" parent="@style/MaxMenuMessage18">
+		<item name="android:textColor">#343434</item>
+	</style>
+
+	<style name="Button24_2" parent="@style/MaxMenuButton24">
+		<item name="android:textColor">#343434</item>
+		<item name="android:background">@drawable/max_menu_selector_2</item>
+	</style>
+
+	<style name="Button18_2" parent="@style/WhiteText18sp">
+		<item name="android:background">@drawable/orange_selector_2</item>
+		<item name="android:gravity">center</item>
+		<item name="android:padding">10dp</item>
+		<item name="android:textColor">#343434</item>
+	</style>
+
+	<style name="ImageButton_2" parent="@style/WhiteText18sp">
+		<item name="android:background">@drawable/orange_selector_2</item>
+		<item name="android:gravity">center</item>
+		<item name="android:textColor">#343434</item>
+	</style>
+
+	<style name="CaptionBackground_2">
+		<item name="android:background">#E0E0E0</item>
+	</style>
+
+	<style name="CaptionText_2">
+		<item name="android:textColor">#343434</item>
+		<item name="android:textSize">20sp</item>
+	</style>
+
+	<style name="PanelBackground_2">
+		<item name="android:background">#E0E0E0</item>
+	</style>
+
+	<style name="PanelText_2">
+		<item name="android:textSize">18sp</item>
+		<item name="android:textColor">#343434</item>
+	</style>
+
+	<!-- Theme -->
+
+	<style name="AppTheme" parent="@android:style/Theme.NoTitleBar.Fullscreen"/>
+
+	<style name="AppTheme1" parent="AppTheme">
+		<item name="appBackground">@style/Background_1</item>
+		<item name="titleMessage">@style/Message18_1</item>
+
+		<item name="menuButton">@style/Button24_1</item>
+		<item name="formButton">@style/Button18_1</item>
+		<item name="imageButton">@style/ImageButton_1</item>
+
+		<item name="captionBackground">@style/CaptionBackground_1</item>
+		<item name="captionText">@style/CaptionText_1</item>
+
+		<item name="panelBackground">@style/PanelBackground_1</item>
+		<item name="panelText">@style/PanelText_1</item>
+
+		<item name="whiteOrangeBackground">@style/WhiteOrangeDraw_1</item>
+	</style>
+
+	<style name="AppTheme2" parent="AppTheme">
+		<item name="appBackground">@style/Background_2</item>
+		<item name="titleMessage">@style/Message18_2</item>
+
+		<item name="menuButton">@style/Button24_2</item>
+		<item name="formButton">@style/Button18_2</item>
+		<item name="imageButton">@style/ImageButton_2</item>
+
+		<item name="captionBackground">@style/CaptionBackground_2</item>
+		<item name="captionText">@style/CaptionText_2</item>
+
+		<item name="panelBackground">@style/PanelBackground_2</item>
+		<item name="panelText">@style/PanelText_2</item>
+
+		<item name="whiteOrangeBackground">@style/WhiteOrangeDraw_2</item>
+	</style>
+</resources>

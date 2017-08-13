@@ -1,0 +1,26 @@
+<RelativeLayout
+	style="?attr/appBackground"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:gesture-image="http://schemas.polites.com/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<fragment
+		android:id="@+id/captionFragment"
+		android:name="ru.facilicom24.manager.fragments.CaptionSimpleFragment"
+		android:layout_width="match_parent"
+		android:layout_height="45dp"
+		tools:layout="@layout/fragment_caption"/>
+
+	<com.polites.android.GestureImageView
+		android:id="@+id/photo"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@id/captionFragment"
+		android:layout_centerVertical="true"
+		gesture-image:max-scale="10.0"
+		gesture-image:min-scale="0.1"
+		gesture-image:strict="false"/>
+
+</RelativeLayout>

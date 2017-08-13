@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="choose">Выбрать</string>
+	<string name="client">Клиент</string>
+	<string name="account">Объект</string>
+	<string name="group">Номенклатурная группа</string>
+	<string name="orioType">Тип</string>
+	<string name="orioArticle">Статья затрат</string>
+	<string name="orioInventory">Основное средство</string>
+	<string name="phone">Телефон</string>
+	<string name="responsible">Ответственный</string>
+	<string name="description">Содержание</string>
+	<string name="required">Поля не заполнены</string>
+	<string name="progress">Загрузка</string>
+	<string name="empty">Список пуст</string>
+	<string name="request_create_done">Заявка в ОРИО отправлена</string>
+	<string name="request_create_error">Ошибка при отправке заявки в ОРИО</string>
+	<string name="check_object_empty">Ошибка при выборе объекта</string>
+	<string name="check_type_empty">Ошибка при выборе вида деятельности</string>
+	<string name="check_blank_empty">Ошибка при выборе бланка</string>
+	<string name="check_blank_check_object_empty">Не заполнено поле Вид деятельности</string>
+	<string name="check_blank">Бланк</string>
+	<string name="check_account">Объект</string>
+	<string name="check_category">Вид деятельности</string>
+</resources>

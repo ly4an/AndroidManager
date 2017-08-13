@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="3dp"
+	android:orientation="vertical">
+
+	<ru.facilicom24.manager.views.FontTextView
+		style="?attr/panelText"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginBottom="3dp"
+		android:text="@string/confirmation_result_label"/>
+
+	<TextView
+		android:id="@+id/results"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="@drawable/rounded_white_rect_light_gray_borders"
+		android:ellipsize="end"
+		android:gravity="start|top"
+		android:hint="@string/confirmation_result_placeholder"
+		android:lines="3"
+		android:padding="5dip"
+		android:textColor="@color/black"/>
+
+</LinearLayout>

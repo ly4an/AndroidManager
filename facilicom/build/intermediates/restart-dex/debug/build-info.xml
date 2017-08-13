@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="25"
+    build-mode="COLD"
+    density="420dpi"
+    format="10"
+    plugin-version="2.3.3"
+    timestamp="1502627183501"
+    token="337979601594676032"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1502626608671"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/outputs/apk/facilicom-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1502627183501"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>

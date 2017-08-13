@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	style="?attr/appBackground"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<fragment
+		android:id="@+id/captionFragment"
+		android:name="ru.facilicom24.manager.fragments.CaptionSimpleFragment"
+		android:layout_width="match_parent"
+		android:layout_height="45dp"
+		tools:layout="@layout/fragment_caption"/>
+
+	<fragment
+		android:id="@+id/person_stage_fragment_1"
+		android:name="ru.facilicom24.manager.fragments.PersonStage1Fragment"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@id/captionFragment"
+		tools:layout="@layout/fragment_person_stage_1"/>
+
+	<RelativeLayout
+		android:id="@+id/person_stages_fragment"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@id/captionFragment"/>
+
+</RelativeLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+	<LinearLayout
+		android:id="@+id/btn_indicator"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentRight="true"
+		android:layout_centerVertical="true"
+		android:gravity="center">
+
+		<ImageView
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:layout_marginLeft="5dp"
+			android:layout_marginRight="5dp"
+			android:scaleType="fitXY"
+			android:src="@drawable/v_line"/>
+
+		<ImageView
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:layout_gravity="center_vertical"
+			android:layout_marginRight="5dp"
+			android:src="@drawable/shevron"/>
+	</LinearLayout>
+
+	<ru.facilicom24.manager.views.FontTextView
+		android:id="@+id/text"
+		style="@style/BaseText16sp"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_centerVertical="true"
+		android:layout_toLeftOf="@id/btn_indicator"
+		android:gravity="center"
+		android:padding="2dp"/>
+</RelativeLayout>

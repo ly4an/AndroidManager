@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	style="?attr/appBackground"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<fragment
+		android:id="@+id/captionFragment"
+		android:name="ru.facilicom24.manager.fragments.CaptionSimpleFragment"
+		android:layout_width="match_parent"
+		android:layout_height="45dp"
+		tools:layout="@layout/fragment_caption"/>
+
+	<ru.facilicom24.manager.views.FontTextView
+		android:id="@+id/titleFontTextView"
+		style="@style/MaxHeader18"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/captionFragment"
+		android:text="@string/request_new_caption"/>
+
+	<ListView
+		android:id="@+id/requestListView"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@id/titleFontTextView"
+		android:layout_marginLeft="5dp"
+		android:layout_marginRight="5dp"
+		android:cacheColorHint="@android:color/transparent"
+		android:divider="@android:color/transparent"
+		android:dividerHeight="1dp"
+		android:keepScreenOn="true"
+		android:listSelector="@android:color/transparent"/>
+
+</RelativeLayout>

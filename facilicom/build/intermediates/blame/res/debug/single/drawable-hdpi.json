@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/drawable-hdpi/disclosure_indicator.png",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/drawable-hdpi/disclosure_indicator.png"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/drawable-hdpi/check.png",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/drawable-hdpi/check.png"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_go_to_today.png",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/drawable-hdpi/ic_action_go_to_today.png"
+    }
+]

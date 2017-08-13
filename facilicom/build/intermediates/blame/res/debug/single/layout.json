@@ -1,0 +1,694 @@
+[
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_nfitem_date.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_nfitem_date.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_person_stage_1.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_person_stage_1.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_nfitem_value.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_nfitem_value.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_description.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_description.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_check_form.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_check_form.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_nfitem_title.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_nfitem_title.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/dialog_image.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/dialog_image.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/client_list_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/client_list_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_nfitem_gone.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_nfitem_gone.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/spinner_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_phone.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_phone.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_employee.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_employee.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/check_client_activity.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/check_client_activity.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/mark_one_layout.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/mark_one_layout.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_request_new.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_request_new.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_create_check.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_create_check.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/main_menu_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/main_menu_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_dismiss.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_dismiss.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_jobtitle.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_jobtitle.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_task_do_text.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_task_do_text.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_hrmenu.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_hrmenu.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_request_history_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_request_history_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_task_text.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_task_text.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_schedule.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_schedule.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/interaction_number_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/interaction_number_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_request_history.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_request_history.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_request_edit.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_request_edit.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_task_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_task_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_person_stage_2.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_person_stage_2.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_person_get.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_person_get.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_dictionary.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_dictionary.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_mobile_2.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_mobile_2.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/dialog_category_potsell.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/dialog_category_potsell.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/check_act_reason_activity.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/check_act_reason_activity.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/object_list_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/object_list_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/dialog_check.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/dialog_check.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/photo_album_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/photo_album_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_nfitem_text.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_nfitem_text.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_person_album.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_person_album.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_person_document.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_person_document.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/check_act_type_activity.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/check_act_type_activity.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_tasktype.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_tasktype.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_pot_sell.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_pot_sell.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_pot_sell_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_pot_sell_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_request_list_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_request_list_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_vidtask.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_vidtask.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_mobile_employee.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_mobile_employee.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_dismiss_reason.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_dismiss_reason.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_mobile_employee.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_mobile_employee.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_interactions.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_interactions.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_bank.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_bank.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_comments.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_comments.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_text.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_text.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_mobile.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_mobile.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_task_do.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_task_do.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_task_list_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_task_list_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_nfitem_choose.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_nfitem_choose.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_calendar.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_calendar.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_mobile_parttime_2.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_mobile_parttime_2.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_password_change.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_password_change.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_request_list.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_request_list.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_request_edit.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_request_edit.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_photo_album.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_photo_album.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_confirmation.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_confirmation.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/reason_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/reason_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_task.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_task.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_task_control_text.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_task_control_text.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/check_act_account_activity.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/check_act_account_activity.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_caption.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_caption.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_request_control_menu.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_request_control_menu.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_mobile_3.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_mobile_3.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_map.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_map.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_service_request.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_service_request.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_blank.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_blank.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/interaction_mobile_parttime_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/interaction_mobile_parttime_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_request_new.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_request_new.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_quality_check.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_quality_check.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_mobile.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_mobile.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/check_act_contact_activity.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/check_act_contact_activity.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_request_menu.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_request_menu.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/element_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/element_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/month.xml",
+        "source": "/Users/semenyuk/.android/build-cache/d24f7a274dd0092db6501e696d08043daa967b89/output/res/layout/month.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/interaction_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/interaction_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/zone_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/zone_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_check_note.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_check_note.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/account_list_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/account_list_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_subdivision.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_subdivision.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_request_text.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_request_text.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/mark_zero_layout.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/mark_zero_layout.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_country.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_country.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_task_main.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_task_main.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_nfitem_link.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_nfitem_link.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/week.xml",
+        "source": "/Users/semenyuk/.android/build-cache/d24f7a274dd0092db6501e696d08043daa967b89/output/res/layout/week.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_dictionary_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_dictionary_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_nomenclature_group.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_nomenclature_group.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_calendar_list.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_calendar_list.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_person.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_person.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/check_act_service_type_activity.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/check_act_service_type_activity.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_task_menu.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_task_menu.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/spinner_dropdown_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_element.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_element.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_access.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_access.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/interaction_money_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/interaction_money_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_mobile_parttime_3.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_mobile_parttime_3.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_calendar_edit.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_calendar_edit.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_mobile_parttime.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_mobile_parttime.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_task_list.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_task_list.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_check_questions.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_check_questions.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/appointment_list_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/appointment_list_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_sex.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_sex.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/fragment_mobile_parttime.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/fragment_mobile_parttime.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/interaction_mobile_item.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/interaction_mobile_item.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/activity_photo.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/activity_photo.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/map_act_account_activity.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/map_act_account_activity.xml"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/layout/mark_two_layout.xml",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/layout/mark_two_layout.xml"
+    }
+]

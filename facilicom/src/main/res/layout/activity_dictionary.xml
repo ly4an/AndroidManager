@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	style="?attr/appBackground"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context="ru.facilicom24.manager.activities.DictionaryActivity">
+
+	<fragment
+		android:id="@+id/captionFragment"
+		android:name="ru.facilicom24.manager.fragments.CaptionSimpleFragment"
+		android:layout_width="match_parent"
+		android:layout_height="45dp"
+		tools:layout="@layout/fragment_caption"/>
+
+	<TextView
+		android:id="@+id/titleTextView"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/captionFragment"
+		android:layout_margin="10dp"
+		android:gravity="center"
+		android:text="Справочник"
+		android:textColor="@color/black"
+		android:textSize="18sp"
+		android:textStyle="bold"/>
+
+	<RelativeLayout
+		android:id="@+id/searchRelativeLayout"
+		style="?attr/panelBackground"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/titleTextView"
+		android:layout_marginBottom="10dp"
+		android:layout_marginEnd="10dp"
+		android:layout_marginLeft="10dp"
+		android:layout_marginRight="10dp"
+		android:layout_marginStart="10dp"
+		android:padding="7dp">
+
+		<EditText
+			android:id="@+id/searchEditText"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:background="@drawable/search_edit_bg"
+			android:hint="@string/search"
+			android:lines="1"
+			android:maxLength="50"/>
+
+	</RelativeLayout>
+
+	<ListView
+		android:id="@+id/dictionaryListView"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/searchRelativeLayout"
+		android:layout_marginBottom="10dp"
+		android:layout_marginEnd="10dp"
+		android:layout_marginLeft="10dp"
+		android:layout_marginRight="10dp"
+		android:cacheColorHint="@android:color/transparent"
+		android:divider="@android:color/transparent"
+		android:dividerHeight="5dp"
+		android:keepScreenOn="true"/>
+
+	<TextView
+		android:id="@+id/emptyTextView"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/searchRelativeLayout"
+		android:layout_marginEnd="10dp"
+		android:layout_marginLeft="10dp"
+		android:layout_marginRight="10dp"
+		android:layout_marginStart="10dp"
+		android:background="@android:color/white"
+		android:gravity="center"
+		android:padding="5dp"
+		android:text="@string/empty"
+		android:textColor="@android:color/holo_red_dark"/>
+
+</RelativeLayout>

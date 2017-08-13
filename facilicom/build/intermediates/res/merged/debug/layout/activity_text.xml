@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	style="?attr/appBackground"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<fragment
+		android:id="@+id/captionFragment"
+		android:name="ru.facilicom24.manager.fragments.CaptionSimpleFragment"
+		android:layout_width="match_parent"
+		android:layout_height="45dp"
+		tools:layout="@layout/fragment_caption"/>
+
+	<ru.facilicom24.manager.views.FontTextView
+		android:id="@+id/view"
+		style="@style/BoldBaseText18sp"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/captionFragment"
+		android:layout_margin="10dp"
+		android:gravity="center"/>
+
+	<ru.facilicom24.manager.views.FontButton
+		android:id="@+id/create"
+		style="?attr/formButton"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:layout_alignParentEnd="true"
+		android:layout_alignParentRight="true"
+		android:layout_margin="10dp"
+		android:text="@string/mobile_comment_next"/>
+
+	<EditText
+		android:id="@+id/editText"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_above="@id/create"
+		android:layout_below="@id/view"
+		android:layout_marginLeft="10dp"
+		android:layout_marginRight="10dp"
+		android:background="@drawable/rounded_white_rect_light_gray_borders"
+		android:gravity="top"
+		android:inputType="textMultiLine"
+		android:maxLength="1000"
+		android:padding="10dp"/>
+
+</RelativeLayout>

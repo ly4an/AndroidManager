@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.android/build-cache/e74fb557e7ca641507d1200f590cf45637763ffb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0e1d4a5a30a32b17497c94f06684fdc68e60a58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.android/build-cache/0f67a51b13fd113a7b48ae918a4f0a6cdd3bf7dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0e3d7154080de8ac8f3526df5fb630b37746c769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.13/1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7/jackson-mapper-asl-1.9.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1ee2f2bed0e5dd29d1cb155a166e6f8d50bbddb7">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-mapper-asl-1.9.13_b29009282cbcc82dfb94786b3efdd780572df6f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_2a4a5c5cf85264e2dcd4229744dd092f2a6e6f97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b31bb646e972635cb521e658ffb12facb9f0eabc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/universal-image-loader-1.9.5_9e6b06b841c45c3bb32d36e3b58e3e8b09f07ee5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.2.2/f8c7ebdc29310be23d076e5512bafe6bad3ce2f0/greendao-3.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f8c7ebdc29310be23d076e5512bafe6bad3ce2f0">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-3.2.2_49739c561c7198f0eafa367b6c47b743dd50bc55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_9939bc81c9c95db2e8ca21712ceebb26b263f1ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9c460dba2ee95ce16bee4bbe17f994ebff475c9c">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eab6f571b3e2b141b9f64758b710b2fb392110d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-api/3.2.2/e9bbf7a184b0b4914a10d8179c993cc9aa9b1b33/greendao-api-3.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e9bbf7a184b0b4914a10d8179c993cc9aa9b1b33">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-api-3.2.2_8d9ffdd301964f72880c478edb57d52e562bc897/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fe0ed03537eb77d23d2a6fcf30d4f06658451942/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.android/build-cache/9f67f679e4b3d0d91729a4b830793fd03f328306/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e90965b85457c05ba7ae97644f1f567a3ffda81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_177ad221b68617f668b7c4257e1a4ed2f8776777/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.android/build-cache/23534eba9ad49970f3ce5d41ab7788c130791194/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da1e75b563e3b94eaa6cf61d8897ebed3eec40b2">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/classes_100c9868eaee94b60305692e7cb3c3a775c259ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.android/build-cache/c91f22d1f22f9263f58e715b59d446f908c00409/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e19d000341ff1074b21c78273020e1911c484cbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/5.0/3382b8260646dd334a1b9c1b3d412fcb73d8b21/ormlite-core-5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="03382b8260646dd334a1b9c1b3d412fcb73d8b21">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/ormlite-core-5.0_0788e09c2a183b5358d708bdd30bba861b62fa7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.android/build-cache/c7031b5a1dd86455dbdf99ead6baef2376bad39a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e898bf22208f1f2e0ed919c8327f82dae728a30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.13/3c304d70f42f832e0a86d45bd437f692129299a4/jackson-core-asl-1.9.13.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3c304d70f42f832e0a86d45bd437f692129299a4">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-asl-1.9.13_78f1ad2b6edf537bb68d6865b3789c51a960f9fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.android/build-cache/e35877b9aa6d2eb8c6212423b875d7201043805b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/classes_988f7b9082f891508a7d71fea82b057b62379495/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_6cf9c828cd9a3e1722f322fd738858e5cf095fa5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.android/build-cache/46f343405e85ef038512de85dd4d0f385d47d834/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d7de08709ef037beaae8bf51f489066209e2ecf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.android/build-cache/d24f7a274dd0092db6501e696d08043daa967b89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="56fc451ea1789e32a24f921b287bc423bb37ef12">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2918f642dab756b8739f56bf45be73b5a3cc59f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.android/build-cache/636f3ebf7bb3b07949d333237ce0f189171a3d64/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="29c804f1b341567bb079fe73cbc58e6fca69330a">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31dda9583c715297fe75212997564a5b67247144/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.1_0940dc2f2668d39662ef40402452b2d99196bdc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/5.0/1f065373aeef355dd9e2fd9854efd5ed4d54f6d/ormlite-android-5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="01f065373aeef355dd9e2fd9854efd5ed4d54f6d">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/ormlite-android-5.0_a957801bd3f1edb0a6d0aecdd2084c4831310fd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.3.0_00356660ce54bdff4b8a48ae6242ae8db320bca2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_dc59395d0a6f64e4f39e63aeeb432680db59c8f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.android/build-cache/3fc410ef60f8379bad1b9e57ae4cdae3757ad466/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b500def19cc00c31147bc28305004080ce419331/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.android/build-cache/bc69dd58e40d5ecca19fa41b4a86f7fd613d73ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14ebf08933b650e8a6988f9cc44a2797657247fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_885bc2727d9b7f07cb21edd1782960db948014bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_8ba78f52fddab41e431be0860b20855e52fef40c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/semenyuk/.android/build-cache/58541f41262ea566c8d739b85185189efa3b09ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5200a046afe83586c33cdfa93889e89198ee4faa/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:layout_marginTop="10dp"
+	android:orientation="vertical">
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="@color/orange"
+		android:orientation="vertical"
+		android:padding="10dp">
+
+		<ru.facilicom24.manager.views.FontTextView
+			style="@style/BoldWhiteText14sp"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginBottom="3dp"
+			android:text="@string/fragment_request_edit_caption"/>
+
+		<TextView
+			android:id="@+id/noteTextView"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:background="@drawable/rounded_white_rect_light_gray_borders"
+			android:ellipsize="end"
+			android:gravity="start|top"
+			android:hint="@string/confirmation_result_placeholder"
+			android:lines="3"
+			android:padding="5dip"
+			android:textColor="@color/black"/>
+
+	</LinearLayout>
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="10dp"
+		android:orientation="horizontal">
+
+		<ru.facilicom24.manager.views.FontButton
+			android:id="@+id/applyFontButton"
+			style="@style/WhiteText18sp"
+			android:layout_width="0dp"
+			android:layout_height="40dp"
+			android:layout_weight="1"
+			android:background="@color/orange"
+			android:padding="10dp"
+			android:text="@string/request_edit_apply"/>
+
+		<ru.facilicom24.manager.views.FontButton
+			android:id="@+id/allowFontButton"
+			style="@style/WhiteText18sp"
+			android:layout_width="0dp"
+			android:layout_height="40dp"
+			android:layout_marginEnd="5dp"
+			android:layout_marginRight="5dp"
+			android:layout_weight="1"
+			android:background="@color/orange"
+			android:padding="10dp"
+			android:text="@string/request_edit_allow"/>
+
+		<ru.facilicom24.manager.views.FontButton
+			android:id="@+id/disallowFontButton"
+			style="@style/WhiteText18sp"
+			android:layout_width="0dp"
+			android:layout_height="40dp"
+			android:layout_marginLeft="5dp"
+			android:layout_marginStart="5dp"
+			android:layout_weight="1"
+			android:background="@color/orange"
+			android:padding="10dp"
+			android:text="@string/request_edit_disallow"/>
+
+		<ImageButton
+			android:id="@+id/photoImageButton"
+			android:layout_width="40dp"
+			android:layout_height="40dp"
+			android:layout_marginLeft="10dp"
+			android:layout_marginStart="10dp"
+			android:background="@color/orange"
+			android:contentDescription="@string/no_description"
+			android:scaleType="fitCenter"/>
+
+	</LinearLayout>
+</LinearLayout>

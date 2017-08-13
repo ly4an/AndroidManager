@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:background="@color/white">
+
+	<ImageView
+		android:id="@+id/disclosureImageView"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentEnd="true"
+		android:layout_alignParentRight="true"
+		android:layout_centerVertical="true"
+		android:contentDescription="@string/no_description"
+		android:padding="5dp"
+		android:src="@drawable/disclosure_indicator"/>
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_toLeftOf="@id/disclosureImageView"
+		android:layout_toStartOf="@id/disclosureImageView"
+		android:orientation="vertical"
+		android:padding="5dp">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="horizontal">
+
+			<TextView
+				android:id="@+id/numberTextView"
+				style="?attr/captionText"
+				android:layout_width="0dp"
+				android:layout_height="wrap_content"
+				android:layout_weight="1"
+				android:text="Номер"
+				tools:ignore="HardcodedText"/>
+
+			<TextView
+				android:id="@+id/dateTextView"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_marginLeft="5dp"
+				android:layout_marginStart="5dp"
+				android:text="Дата"
+				android:textColor="@color/black"
+				tools:ignore="HardcodedText"/>
+
+		</LinearLayout>
+
+		<RelativeLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content">
+
+			<LinearLayout
+				android:id="@+id/leftLinearLayout"
+				android:layout_width="100dp"
+				android:layout_height="wrap_content"
+				android:orientation="vertical">
+
+				<TextView
+					android:id="@+id/statusTextView"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Статус"
+					android:textColor="@color/black"
+					android:textStyle="bold"
+					tools:ignore="HardcodedText"/>
+
+				<TextView
+					android:id="@+id/facilityNameTextView"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:maxLines="1"
+					android:text="Объект"
+					android:textColor="@color/black"
+					tools:ignore="HardcodedText"/>
+
+			</LinearLayout>
+
+			<TextView
+				android:id="@+id/contentTextView"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_centerVertical="true"
+				android:layout_marginLeft="5dp"
+				android:layout_marginStart="5dp"
+				android:layout_toEndOf="@id/leftLinearLayout"
+				android:layout_toRightOf="@id/leftLinearLayout"
+				android:ellipsize="end"
+				android:maxLines="2"
+				android:text="Содержание"
+				android:textColor="@color/dark_gray"
+				tools:ignore="HardcodedText"/>
+
+		</RelativeLayout>
+
+		<TextView
+			android:id="@+id/facilityAddressTextView"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:maxLines="1"
+			android:text="Адрес"
+			android:textColor="@color/dark_gray"
+			tools:ignore="HardcodedText"/>
+
+	</LinearLayout>
+</RelativeLayout>

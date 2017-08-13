@@ -1,0 +1,77 @@
+<RelativeLayout
+	style="?attr/appBackground"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<fragment
+		android:id="@+id/captionFragment"
+		android:name="ru.facilicom24.manager.fragments.CaptionSimpleFragment"
+		android:layout_width="match_parent"
+		android:layout_height="45dp"
+		tools:layout="@layout/fragment_caption"/>
+
+	<LinearLayout
+		android:id="@+id/caption"
+		style="?attr/panelBackground"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/captionFragment"
+		android:layout_margin="5dp"
+		android:orientation="vertical"
+		android:padding="5dp">
+
+		<ru.facilicom24.manager.views.FontTextView
+			android:id="@+id/form"
+			style="@style/BoldWhiteText18sp"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:background="@drawable/rounded_white_rect_light_gray_borders"
+			android:gravity="center"
+			android:padding="5dp"
+			android:textColor="@color/light_gray"/>
+
+		<RelativeLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="5dp">
+
+			<ru.facilicom24.manager.views.FontTextView
+				android:id="@+id/object_label"
+				style="@style/BoldWhiteText14sp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_centerVertical="true"
+				android:layout_marginEnd="5dp"
+				android:layout_marginRight="5dp"
+				android:gravity="center"
+				android:text="@string/object"/>
+
+			<ru.facilicom24.manager.views.FontTextView
+				android:id="@+id/object"
+				style="@style/BoldWhiteText18sp"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_toEndOf="@id/object_label"
+				android:layout_toRightOf="@id/object_label"
+				android:background="@drawable/rounded_white_rect_light_gray_borders"
+				android:gravity="center_vertical|start"
+				android:padding="5dp"
+				android:textColor="@color/light_gray"/>
+
+		</RelativeLayout>
+	</LinearLayout>
+
+	<GridView
+		android:id="@+id/photo_album"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@id/caption"
+		android:gravity="top|start"
+		android:horizontalSpacing="10dp"
+		android:numColumns="3"
+		android:stretchMode="columnWidth"
+		android:verticalSpacing="10dp"/>
+
+</RelativeLayout>

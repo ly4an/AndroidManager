@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_go_to_today.png",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/drawable-mdpi/ic_action_go_to_today.png"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/drawable-mdpi/ic_save.png",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/drawable-mdpi/ic_save.png"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/drawable-mdpi/ic_send.png",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/drawable-mdpi/ic_send.png"
+    },
+    {
+        "merged": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/res/merged/debug/drawable-mdpi/ic_album.png",
+        "source": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/res/drawable-mdpi/ic_album.png"
+    }
+]

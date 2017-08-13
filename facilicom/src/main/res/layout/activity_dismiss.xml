@@ -1,0 +1,38 @@
+<RelativeLayout
+	style="?attr/appBackground"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<fragment
+		android:id="@+id/captionFragment"
+		android:name="ru.facilicom24.manager.fragments.CaptionFragment"
+		android:layout_width="match_parent"
+		android:layout_height="45dp"
+		tools:layout="@layout/fragment_caption"/>
+
+	<TextView
+		android:id="@+id/caption"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/captionFragment"
+		android:layout_margin="5dp"
+		android:gravity="center"
+		android:text="@string/hrmenuactivity_menu_5"
+		android:textColor="@color/black"
+		android:textSize="18sp"/>
+
+	<ListView
+		android:id="@+id/form"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/caption"
+		android:layout_margin="5dp"
+		android:cacheColorHint="@android:color/transparent"
+		android:divider="@android:color/transparent"
+		android:dividerHeight="1dp"
+		android:keepScreenOn="true"
+		android:listSelector="@android:color/transparent"/>
+
+</RelativeLayout>

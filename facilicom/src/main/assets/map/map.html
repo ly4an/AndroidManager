@@ -1,0 +1,38 @@
+<html>
+<head>
+	<meta name="viewport"
+	      content="width: device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"/>
+	<link rel="stylesheet" type="text/css" href="map.css"/>
+	<script src="jquery-1.11.1.min.js"></script>
+	<script src="map.js"></script>
+</head>
+<body>
+<input type="hidden" id="Lng" value="[Lng]"/>
+<input type="hidden" id="Lat" value="[Lat]"/>
+<table class="Main">
+	<tr>
+		<td class="Main">
+			<img id="MapImage" class="Map"/>
+			<table id="DataTable" class="Data">
+				<tr>
+					<td class="Header">Долгота</td>
+					<td class="Header">Широта</td>
+				</tr>
+				<tr>
+					<td id="LngText" class="Data"></td>
+					<td id="LatText" class="Data"></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+</body>
+<script>
+        $(document).ready(Main);
+
+
+
+
+
+</script>
+</html>

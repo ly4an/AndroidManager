@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+	<ru.facilicom24.manager.views.FontTextView android:id="@+id/text"
+	                                           style="@style/BaseText18sp"
+	                                           xmlns:android="http://schemas.android.com/apk/res/android"
+	                                           android:layout_width="match_parent"
+	                                           android:layout_height="match_parent"
+	                                           android:layout_toLeftOf="@+id/check"
+	                                           android:layout_toStartOf="@+id/check"
+	                                           android:padding="10dp"/>
+
+	<ImageView
+		android:id="@+id/check"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentEnd="true"
+		android:layout_alignParentLeft="false"
+		android:layout_alignParentRight="true"
+		android:layout_alignParentStart="false"
+		android:layout_alignParentTop="false"
+		android:layout_centerVertical="true"
+		android:layout_marginLeft="5dip"
+		android:layout_marginRight="10dip"
+		android:src="@drawable/check"/>
+</RelativeLayout>

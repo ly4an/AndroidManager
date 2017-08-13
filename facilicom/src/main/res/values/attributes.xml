@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<attr name="appBackground" format="reference"/>
+	<attr name="titleMessage" format="reference"/>
+
+	<attr name="menuButton" format="reference"/>
+	<attr name="formButton" format="reference"/>
+	<attr name="imageButton" format="reference"/>
+
+	<attr name="captionBackground" format="reference"/>
+	<attr name="captionText" format="reference"/>
+
+	<attr name="panelBackground" format="reference"/>
+	<attr name="panelText" format="reference"/>
+
+	<attr name="whiteOrangeBackground" format="reference"/>
+</resources>

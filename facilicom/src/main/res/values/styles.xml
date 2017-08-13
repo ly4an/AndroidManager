@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<style name="BaseText12sp">
+		<item name="android:textSize">12sp</item>
+		<item name="android:textColor">@color/black</item>
+	</style>
+
+	<style name="BaseText14sp" parent="@style/BaseText12sp">
+		<item name="android:textSize">14sp</item>
+	</style>
+
+	<style name="BaseText16sp" parent="@style/BaseText12sp">
+		<item name="android:textSize">16sp</item>
+	</style>
+
+	<style name="BaseText18sp" parent="@style/BaseText12sp">
+		<item name="android:textSize">18sp</item>
+	</style>
+
+	<style name="BoldBaseText16sp" parent="@style/BaseText16sp">
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<style name="BoldBaseText18sp" parent="@style/BaseText18sp">
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<!-- Orange -->
+	<style name="OrangeText12sp" parent="@style/BaseText12sp">
+		<item name="android:textColor">@color/orange</item>
+	</style>
+
+	<style name="OrangeText14sp" parent="@style/OrangeText12sp">
+		<item name="android:textSize">14sp</item>
+	</style>
+
+	<style name="OrangeText16sp" parent="@style/OrangeText12sp">
+		<item name="android:textSize">16sp</item>
+	</style>
+
+	<style name="OrangeText18sp" parent="@style/OrangeText12sp">
+		<item name="android:textSize">18sp</item>
+	</style>
+
+	<style name="OrangeText20sp" parent="@style/OrangeText12sp">
+		<item name="android:textSize">20sp</item>
+	</style>
+
+	<style name="OrangeText24sp" parent="@style/OrangeText12sp">
+		<item name="android:textSize">24sp</item>
+	</style>
+
+	<style name="BoldOrangeText20sp" parent="@style/OrangeText20sp">
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<!-- White -->
+	<style name="WhiteText12sp" parent="@style/BaseText12sp">
+		<item name="android:textColor">@color/white</item>
+	</style>
+
+	<style name="WhiteText14sp" parent="@style/BaseText14sp">
+		<item name="android:textColor">@color/white</item>
+	</style>
+
+	<style name="WhiteText16sp" parent="@style/BaseText16sp">
+		<item name="android:textColor">@color/white</item>
+	</style>
+
+	<style name="WhiteText18sp" parent="@style/WhiteText12sp">
+		<item name="android:textSize">18sp</item>
+	</style>
+
+	<style name="WhiteText24sp" parent="@style/WhiteText12sp">
+		<item name="android:textSize">24sp</item>
+	</style>
+
+	<style name="BoldWhiteText14sp" parent="@style/WhiteText14sp">
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<style name="BoldWhiteText16sp" parent="@style/WhiteText16sp">
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<style name="BoldWhiteText18sp" parent="@style/WhiteText18sp">
+		<item name="android:textStyle">bold</item>
+	</style>
+
+	<!-- Controls -->
+	<style name="OrangeWhiteBoldText18spBtn" parent="@style/WhiteText18sp">
+		<item name="android:background">@drawable/orange_selector</item>
+		<item name="android:gravity">center</item>
+		<item name="android:padding">10dp</item>
+	</style>
+
+	<style name="OrangeWhiteBoldText24spBtn" parent="@style/WhiteText24sp">
+		<item name="android:background">@drawable/orange_selector</item>
+		<item name="android:gravity">center</item>
+		<item name="android:padding">10dp</item>
+	</style>
+
+	<style name="CheckDialogStyle" parent="@android:style/Theme.Dialog">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:background">@null</item>
+	</style>
+
+	<style name="ImageDialogStyle" parent="@android:style/Theme.Dialog">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowBackground">@android:color/transparent</item>
+		<item name="android:background">@null</item>
+	</style>
+	<!--
+
+	Max
+
+	-->
+	<style name="MaxMenuButton24">
+		<item name="android:textColor">@color/darkOrange</item>
+		<item name="android:background">@drawable/max_menu_selector</item>
+		<item name="android:textSize">24sp</item>
+		<item name="android:gravity">center</item>
+		<item name="android:padding">10dp</item>
+	</style>
+
+	<style name="MaxMenuMessage18">
+		<item name="android:padding">10dp</item>
+		<item name="android:textSize">18sp</item>
+		<item name="android:textColor">@color/darkOrange</item>
+	</style>
+
+	<style name="MaxMenuHeader18">
+		<item name="android:textColor">@color/black</item>
+		<item name="android:background">@color/gainsboro</item>
+		<item name="android:textSize">18sp</item>
+		<item name="android:padding">10dp</item>
+		<item name="android:gravity">center</item>
+	</style>
+
+	<style name="MaxHeader18" parent="@style/BaseText12sp">
+		<item name="android:textStyle">bold</item>
+		<item name="android:gravity">center</item>
+		<item name="android:textColor">@color/black</item>
+		<item name="android:textSize">18sp</item>
+		<item name="android:padding">10dp</item>
+	</style>
+</resources>

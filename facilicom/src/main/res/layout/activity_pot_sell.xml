@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="@drawable/main_menu_activity_bg"
+	tools:context="ru.facilicom24.manager.activities.PotSellActivity">
+
+	<fragment
+		android:id="@+id/captionFragment"
+		android:name="ru.facilicom24.manager.fragments.CaptionSimpleFragment"
+		android:layout_width="match_parent"
+		android:layout_height="45dp"
+		tools:layout="@layout/fragment_caption"/>
+
+	<TextView
+		android:id="@+id/title"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentEnd="true"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentRight="true"
+		android:layout_alignParentStart="true"
+		android:layout_below="@+id/captionFragment"
+		android:layout_marginTop="10dp"
+		android:gravity="center"
+		android:lines="1"
+		android:text="@string/potsell_title"
+		android:textColor="@android:color/black"
+		android:textSize="18sp"
+		android:textStyle="bold"/>
+
+	<ListView
+		android:id="@+id/listView"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@+id/title"
+		android:layout_margin="10dp"
+		android:cacheColorHint="@color/white"
+		android:divider="@android:color/transparent"
+		android:dividerHeight="5dp"
+		android:keepScreenOn="true"/>
+
+	<TextView
+		android:id="@+id/listViewEmptyTextView"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/title"
+		android:layout_margin="10dp"
+		android:background="@color/white"
+		android:gravity="center"
+		android:padding="10dp"
+		android:text="@string/potsell_empty"
+		android:textColor="@color/red"/>
+
+</RelativeLayout>

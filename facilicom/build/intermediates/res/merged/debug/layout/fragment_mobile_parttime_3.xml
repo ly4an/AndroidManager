@@ -1,0 +1,47 @@
+<LinearLayout
+	style="?attr/appBackground"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+
+	<fragment
+		android:id="@+id/captionFragment"
+		android:name="ru.facilicom24.manager.fragments.CaptionFragment"
+		android:layout_width="match_parent"
+		android:layout_height="45dp"
+		tools:layout="@layout/fragment_caption"/>
+
+	<ru.facilicom24.manager.views.FontTextView
+		style="@style/MaxHeader18"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:text="@string/mobile_caption_parttime"/>
+
+	<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+
+		<ru.facilicom24.manager.views.FontButton
+			android:id="@+id/add"
+			style="?attr/formButton"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_alignParentBottom="true"
+			android:layout_margin="10dp"
+			android:text="@string/mobile_apply"/>
+
+		<ListView
+			android:id="@+id/list"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:layout_above="@id/add"
+			android:cacheColorHint="@android:color/transparent"
+			android:divider="@android:color/transparent"
+			android:dividerHeight="1dp"
+			android:keepScreenOn="true"
+			android:listSelector="@android:color/transparent"/>
+
+	</RelativeLayout>
+</LinearLayout>

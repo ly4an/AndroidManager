@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/semenyuk/Documents/Projects/Manager.Max/facilicom/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v9/values-v9.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/Users/semenyuk/.android/build-cache/d24f7a274dd0092db6501e696d08043daa967b89/output/res/values-v9/values-v9.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]

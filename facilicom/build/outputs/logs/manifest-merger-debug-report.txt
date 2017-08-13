@@ -1,0 +1,560 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:6:40-246:11
+	package
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:6:51-83
+	android:versionName
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:6:172-201
+		INJECTED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml
+		INJECTED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:6:145-170
+		INJECTED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml
+		INJECTED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:6:85-143
+uses-permission#android.permission.INTERNET
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:8:205-61
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:8:222-264
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:9:268-74
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:9:285-339
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:10:343-76
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:10:360-416
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:11:420-74
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:11:437-491
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:12:495-84
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:12:512-576
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:13:580-75
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:13:597-652
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:14:656-76
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:14:673-729
+uses-permission#android.permission.CAMERA
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:15:733-60
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:15:750-790
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:16:794-70
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:16:811-861
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:17:865-63
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:17:882-925
+uses-feature#android.hardware.camera
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:21:930-28
+	android:required
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:21:987-1010
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:21:946-984
+application
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:29:1015-245:14
+MERGED from [com.android.support:design:25.3.1] /Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/semenyuk/.android/build-cache/9f67f679e4b3d0d91729a4b830793fd03f328306/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/semenyuk/.android/build-cache/e74fb557e7ca641507d1200f590cf45637763ffb/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/semenyuk/.android/build-cache/3fc410ef60f8379bad1b9e57ae4cdae3757ad466/output/AndroidManifest.xml:26:5-20
+MERGED from [it.sephiroth.android.library.horizontallistview:hlistview:1.3.1] /Users/semenyuk/.android/build-cache/636f3ebf7bb3b07949d333237ce0f189171a3d64/output/AndroidManifest.xml:11:5-20
+MERGED from [ch.acra:acra:4.9.2] /Users/semenyuk/.android/build-cache/23534eba9ad49970f3ce5d41ab7788c130791194/output/AndroidManifest.xml:39:5-43:19
+MERGED from [com.android.support:support-v4:25.3.1] /Users/semenyuk/.android/build-cache/46f343405e85ef038512de85dd4d0f385d47d834/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/semenyuk/.android/build-cache/c7031b5a1dd86455dbdf99ead6baef2376bad39a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/semenyuk/.android/build-cache/58541f41262ea566c8d739b85185189efa3b09ec/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/semenyuk/.android/build-cache/c91f22d1f22f9263f58e715b59d446f908c00409/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/semenyuk/.android/build-cache/e35877b9aa6d2eb8c6212423b875d7201043805b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/semenyuk/.android/build-cache/0f67a51b13fd113a7b48ae918a4f0a6cdd3bf7dd/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:29:1138-1170
+	android:allowBackup
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:29:1069-1096
+	android:icon
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:29:1099-1135
+	android:largeHeap
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:29:1173-1197
+	android:theme
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:29:1200-1232
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:29:1030-1066
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:35:1237-39:13
+	android:authorities
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:35:1308-1365
+	android:grantUriPermissions
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:35:1397-1431
+	android:exported
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:35:1369-1393
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:35:1250-1304
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:38:1436-36
+	android:resource
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:38:1506-1535
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:38:1451-1501
+activity#ru.facilicom24.manager.activities.SplashActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:43:1555-49:13
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:43:1613-1649
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:43:1568-1609
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:44:1654-48:19
+action#android.intent.action.MAIN
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:45:1674-55
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:45:1682-1723
+category#android.intent.category.LAUNCHER
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:47:1731-62
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:47:1741-1788
+activity#ru.facilicom24.manager.activities.CheckActTypeActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:52:1827-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:52:1891-1927
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:52:1840-1887
+activity#ru.facilicom24.manager.activities.CheckActReasonActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:55:1932-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:55:1998-2034
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:55:1945-1994
+activity#ru.facilicom24.manager.activities.CheckActServiceTypeActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:58:2039-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:58:2110-2146
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:58:2052-2106
+activity#ru.facilicom24.manager.activities.CheckActContactActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:61:2151-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:61:2218-2254
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:61:2164-2214
+activity#ru.facilicom24.manager.activities.CheckActAccountActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:65:2259-47
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:65:2326-2362
+	android:windowSoftInputMode
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:65:2366-2407
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:65:2272-2322
+activity#ru.facilicom24.manager.activities.CheckClientActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:69:2412-47
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:69:2475-2511
+	android:windowSoftInputMode
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:69:2515-2556
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:69:2425-2471
+activity#ru.facilicom24.manager.activities.TextActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:73:2561-47
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:73:2617-2653
+	android:windowSoftInputMode
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:73:2657-2698
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:73:2574-2613
+activity#ru.facilicom24.manager.activities.LoginActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:76:2703-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:76:2760-2796
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:76:2716-2756
+activity#ru.facilicom24.manager.activities.ConfirmationActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:79:2801-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:79:2865-2901
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:79:2814-2861
+activity#ru.facilicom24.manager.activities.InteractionsActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:82:2906-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:82:2970-3006
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:82:2919-2966
+activity#ru.facilicom24.manager.activities.MainActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:85:3011-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:85:3067-3103
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:85:3024-3063
+activity#ru.facilicom24.manager.activities.QualityCheckActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:88:3108-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:88:3172-3208
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:88:3121-3168
+activity#ru.facilicom24.manager.activities.PhotoAlbumActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:91:3213-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:91:3275-3311
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:91:3226-3271
+activity#ru.facilicom24.manager.activities.CommentsActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:94:3316-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:94:3376-3412
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:94:3329-3372
+activity#ru.facilicom24.manager.activities.PhotoActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:97:3417-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:97:3474-3510
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:97:3430-3470
+activity#ru.facilicom24.manager.activities.ElementActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:100:3515-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:100:3574-3610
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:100:3528-3570
+activity#ru.facilicom24.manager.activities.MapActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:103:3615-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:103:3670-3706
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:103:3628-3666
+activity#ru.facilicom24.manager.activities.HRMenuActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:106:3711-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:106:3769-3805
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:106:3724-3765
+activity#ru.facilicom24.manager.activities.MobileActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:109:3810-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:109:3868-3904
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:109:3823-3864
+activity#ru.facilicom24.manager.activities.NomenclatureGroupActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:113:3909-47
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:113:3978-4014
+	android:windowSoftInputMode
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:113:4018-4059
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:113:3922-3974
+activity#ru.facilicom24.manager.activities.SexActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:116:4064-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:116:4119-4155
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:116:4077-4115
+activity#ru.facilicom24.manager.activities.ScheduleActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:119:4160-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:119:4220-4256
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:119:4173-4216
+activity#ru.facilicom24.manager.activities.CheckNoteActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:123:4261-48
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:123:4322-4358
+	android:windowSoftInputMode
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:123:4362-4404
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:123:4274-4318
+activity#ru.facilicom24.manager.activities.TaskActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:126:4409-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:126:4465-4501
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:126:4422-4461
+activity#ru.facilicom24.manager.activities.VidTaskActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:129:4506-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:129:4565-4601
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:129:4519-4561
+activity#ru.facilicom24.manager.activities.TaskTypeActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:132:4606-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:132:4666-4702
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:132:4619-4662
+activity#ru.facilicom24.manager.activities.EmployeeActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:135:4707-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:135:4767-4803
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:135:4720-4763
+activity#ru.facilicom24.manager.activities.MapAccountActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:139:4808-47
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:139:4870-4906
+	android:windowSoftInputMode
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:139:4910-4951
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:139:4821-4866
+activity#ru.facilicom24.manager.activities.MobileEmployeeActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:142:4956-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:142:5022-5058
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:142:4969-5018
+activity#ru.facilicom24.manager.activities.MobilePartTimeActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:145:5063-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:145:5129-5165
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:145:5076-5125
+activity#ru.facilicom24.manager.activities.PersonActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:149:5170-45
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:149:5228-5264
+	android:windowSoftInputMode
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:149:5268-5307
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:149:5183-5224
+activity#ru.facilicom24.manager.activities.CountryActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:152:5312-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:152:5371-5407
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:152:5325-5367
+activity#ru.facilicom24.manager.activities.SubdivisionActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:156:5412-47
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:156:5475-5511
+	android:windowSoftInputMode
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:156:5515-5556
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:156:5425-5471
+activity#ru.facilicom24.manager.activities.JobTitleActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:159:5561-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:159:5621-5657
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:159:5574-5617
+activity#ru.facilicom24.manager.activities.BankActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:162:5662-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:162:5718-5754
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:162:5675-5714
+activity#ru.facilicom24.manager.activities.PersonAlbumActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:165:5759-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:165:5822-5858
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:165:5772-5818
+activity#ru.facilicom24.manager.activities.PhoneActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:168:5863-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:168:5920-5956
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:168:5876-5916
+activity#ru.facilicom24.manager.activities.AccessActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:171:5961-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:171:6019-6055
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:171:5974-6015
+activity#ru.facilicom24.manager.activities.PersonGetActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:174:6060-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:174:6121-6157
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:174:6073-6117
+activity#ru.facilicom24.manager.activities.DismissActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:177:6162-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:177:6221-6257
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:177:6175-6217
+activity#ru.facilicom24.manager.activities.DismissReasonActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:180:6262-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:180:6327-6363
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:180:6275-6323
+activity#ru.facilicom24.manager.activities.TaskMainActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:183:6368-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:183:6428-6464
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:183:6381-6424
+activity#ru.facilicom24.manager.activities.TaskMenuActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:186:6469-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:186:6529-6565
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:186:6482-6525
+activity#ru.facilicom24.manager.activities.TaskListActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:189:6570-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:189:6630-6666
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:189:6583-6626
+activity#ru.facilicom24.manager.activities.TaskDoActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:192:6671-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:192:6729-6765
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:192:6684-6725
+activity#ru.facilicom24.manager.activities.RequestMenuActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:195:6770-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:195:6833-6869
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:195:6783-6829
+activity#ru.facilicom24.manager.activities.RequestNewActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:198:6874-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:198:6936-6972
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:198:6887-6932
+activity#ru.facilicom24.manager.activities.RequestControlMenuActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:201:6977-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:201:7047-7083
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:201:6990-7043
+activity#ru.facilicom24.manager.activities.RequestListActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:205:7088-47
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:205:7151-7187
+	android:windowSoftInputMode
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:205:7191-7232
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:205:7101-7147
+activity#ru.facilicom24.manager.activities.RequestEditActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:208:7237-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:208:7300-7336
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:208:7250-7296
+activity#ru.facilicom24.manager.activities.RequestHistoryActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:211:7341-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:211:7407-7443
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:211:7354-7403
+activity#ru.facilicom24.manager.activities.CalendarActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:214:7448-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:214:7508-7544
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:214:7461-7504
+activity#ru.facilicom24.manager.activities.CalendarListActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:217:7549-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:217:7613-7649
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:217:7562-7609
+activity#ru.facilicom24.manager.activities.CalendarEditActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:220:7654-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:220:7718-7754
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:220:7667-7714
+activity#ru.facilicom24.manager.activities.PotSellActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:223:7759-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:223:7818-7854
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:223:7772-7814
+activity#ru.facilicom24.manager.activities.DictionaryActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:227:7859-47
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:227:7921-7957
+	android:windowSoftInputMode
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:227:7961-8002
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:227:7872-7917
+activity#ru.facilicom24.manager.activities.ServiceRequestActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:230:8007-42
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:230:8073-8109
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:230:8020-8069
+activity#ru.facilicom24.manager.activities.PasswordChangeActivity
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:234:8114-47
+	android:screenOrientation
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:234:8180-8216
+	android:windowSoftInputMode
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:234:8220-8261
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:234:8127-8176
+service#ru.facilicom24.manager.services.ImageUploadService
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:236:8267-55
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:236:8276-8319
+activity#org.acra.dialog.CrashReportDialog
+ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:243:8325-49
+MERGED from [ch.acra:acra:4.9.2] /Users/semenyuk/.android/build-cache/23534eba9ad49970f3ce5d41ab7788c130791194/output/AndroidManifest.xml:40:9-241
+	android:process
+		ADDED from [ch.acra:acra:4.9.2] /Users/semenyuk/.android/build-cache/23534eba9ad49970f3ce5d41ab7788c130791194/output/AndroidManifest.xml:40:172-195
+	android:excludeFromRecents
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:243:8390-8423
+	android:launchMode
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:243:8464-8499
+	android:finishOnTaskLaunch
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:243:8427-8460
+	android:theme
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:243:8503-8546
+	android:name
+		ADDED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml:243:8338-8386
+uses-sdk
+INJECTED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [Manager.Max:gestureimageview:unspecified] /Users/semenyuk/Documents/Projects/Manager.Max/gestureimageview/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/semenyuk/.android/build-cache/9f67f679e4b3d0d91729a4b830793fd03f328306/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/semenyuk/.android/build-cache/e74fb557e7ca641507d1200f590cf45637763ffb/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/semenyuk/.android/build-cache/bc69dd58e40d5ecca19fa41b4a86f7fd613d73ae/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/semenyuk/.android/build-cache/3fc410ef60f8379bad1b9e57ae4cdae3757ad466/output/AndroidManifest.xml:20:5-44
+MERGED from [it.sephiroth.android.library.horizontallistview:hlistview:1.3.1] /Users/semenyuk/.android/build-cache/636f3ebf7bb3b07949d333237ce0f189171a3d64/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup:android-times-square:1.7.3] /Users/semenyuk/.android/build-cache/d24f7a274dd0092db6501e696d08043daa967b89/output/AndroidManifest.xml:7:5-43
+MERGED from [ch.acra:acra:4.9.2] /Users/semenyuk/.android/build-cache/23534eba9ad49970f3ce5d41ab7788c130791194/output/AndroidManifest.xml:37:5-42
+MERGED from [com.android.support:support-v4:25.3.1] /Users/semenyuk/.android/build-cache/46f343405e85ef038512de85dd4d0f385d47d834/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/semenyuk/.android/build-cache/c7031b5a1dd86455dbdf99ead6baef2376bad39a/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/semenyuk/.android/build-cache/58541f41262ea566c8d739b85185189efa3b09ec/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/semenyuk/.android/build-cache/c91f22d1f22f9263f58e715b59d446f908c00409/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/semenyuk/.android/build-cache/e35877b9aa6d2eb8c6212423b875d7201043805b/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/semenyuk/.android/build-cache/0f67a51b13fd113a7b48ae918a4f0a6cdd3bf7dd/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml
+		INJECTED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml
+		INJECTED from /Users/semenyuk/Documents/Projects/Manager.Max/facilicom/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/semenyuk/.android/build-cache/c7c2e03257998e07a07fe9082e100e0bbd78a449/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/semenyuk/.android/build-cache/9f67f679e4b3d0d91729a4b830793fd03f328306/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/semenyuk/.android/build-cache/e74fb557e7ca641507d1200f590cf45637763ffb/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/semenyuk/.android/build-cache/bc69dd58e40d5ecca19fa41b4a86f7fd613d73ae/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/semenyuk/.android/build-cache/3fc410ef60f8379bad1b9e57ae4cdae3757ad466/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/semenyuk/.android/build-cache/46f343405e85ef038512de85dd4d0f385d47d834/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/semenyuk/.android/build-cache/c7031b5a1dd86455dbdf99ead6baef2376bad39a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/semenyuk/.android/build-cache/58541f41262ea566c8d739b85185189efa3b09ec/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/semenyuk/.android/build-cache/c91f22d1f22f9263f58e715b59d446f908c00409/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/semenyuk/.android/build-cache/e35877b9aa6d2eb8c6212423b875d7201043805b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/semenyuk/.android/build-cache/0f67a51b13fd113a7b48ae918a4f0a6cdd3bf7dd/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/semenyuk/.android/build-cache/065530e11523b6e55c2ec05a87f948591a9e8e00/output/AndroidManifest.xml:26:9-47
+service#org.acra.sender.SenderService
+ADDED from [ch.acra:acra:4.9.2] /Users/semenyuk/.android/build-cache/23534eba9ad49970f3ce5d41ab7788c130791194/output/AndroidManifest.xml:42:9-113
+	android:process
+		ADDED from [ch.acra:acra:4.9.2] /Users/semenyuk/.android/build-cache/23534eba9ad49970f3ce5d41ab7788c130791194/output/AndroidManifest.xml:42:88-111
+	android:exported
+		ADDED from [ch.acra:acra:4.9.2] /Users/semenyuk/.android/build-cache/23534eba9ad49970f3ce5d41ab7788c130791194/output/AndroidManifest.xml:42:18-42
+	android:name
+		ADDED from [ch.acra:acra:4.9.2] /Users/semenyuk/.android/build-cache/23534eba9ad49970f3ce5d41ab7788c130791194/output/AndroidManifest.xml:42:43-87

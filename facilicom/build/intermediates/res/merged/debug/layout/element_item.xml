@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ru.facilicom24.manager.views.ElementItemView
+	style="?attr/whiteOrangeBackground"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:padding="5dp">
+
+	<ru.facilicom24.manager.views.ElementNumberView
+		android:id="@+id/number"
+		style="@style/BaseText16sp"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_alignParentStart="true"
+		android:layout_alignParentTop="true"
+		android:layout_marginEnd="5dp"
+		android:layout_marginRight="5dp"
+		android:gravity="center"
+		android:minHeight="20dp"
+		android:minWidth="20dp"
+		android:padding="1dp"/>
+
+	<ru.facilicom24.manager.views.FontTextView
+		android:id="@+id/name"
+		style="@style/BaseText16sp"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:layout_toEndOf="@id/number"
+		android:layout_toRightOf="@id/number"/>
+
+	<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/name">
+
+		<ImageView
+			android:id="@+id/comment_indicator"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentEnd="true"
+			android:layout_alignParentRight="true"
+			android:layout_centerVertical="true"
+			android:layout_marginLeft="5dp"
+			android:layout_marginStart="5dp"
+			android:adjustViewBounds="true"
+			android:contentDescription="@string/no_description"
+			android:scaleType="fitCenter"
+			android:src="@drawable/ic_comment"/>
+
+		<ru.facilicom24.manager.views.FontTextView
+			android:id="@+id/marks"
+			style="@style/BoldBaseText16sp"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_centerVertical="true"
+			android:layout_toLeftOf="@id/comment_indicator"
+			android:layout_toStartOf="@id/comment_indicator"
+			android:gravity="end"/>
+
+	</RelativeLayout>
+</ru.facilicom24.manager.views.ElementItemView>

@@ -1,0 +1,62 @@
+<RelativeLayout
+	style="?attr/appBackground"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<fragment
+		android:id="@+id/captionFragment"
+		android:name="ru.facilicom24.manager.fragments.CaptionSimpleFragment"
+		android:layout_width="match_parent"
+		android:layout_height="45dp"
+		tools:layout="@layout/fragment_caption"/>
+
+	<TextView
+		android:id="@+id/caption"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/captionFragment"
+		android:layout_marginTop="10dp"
+		android:gravity="center"
+		android:text="@string/mobile_job_caption"
+		android:textColor="@android:color/black"
+		android:textSize="18sp"
+		android:textStyle="bold"/>
+
+	<RelativeLayout
+		android:id="@+id/searchLayout"
+		style="?attr/panelBackground"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/caption"
+		android:layout_marginEnd="10dp"
+		android:layout_marginLeft="10dp"
+		android:layout_marginRight="10dp"
+		android:layout_marginStart="10dp"
+		android:layout_marginTop="10dp"
+		android:padding="7dp">
+
+		<EditText
+			android:id="@+id/searchField"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:background="@drawable/search_edit_bg"
+			android:hint="@string/search"
+			android:maxLength="20">
+
+			<requestFocus/>
+
+		</EditText>
+	</RelativeLayout>
+
+	<ListView
+		android:id="@+id/listView"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@+id/searchLayout"
+		android:layout_margin="10dp"
+		android:divider="@android:color/transparent"
+		android:dividerHeight="10dp"/>
+
+</RelativeLayout>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	style="?attr/appBackground"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<fragment
+		android:id="@+id/captionFragment"
+		android:name="ru.facilicom24.manager.fragments.CaptionSimpleFragment"
+		android:layout_width="match_parent"
+		android:layout_height="45dp"
+		tools:layout="@layout/fragment_caption"/>
+
+	<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_below="@id/captionFragment"
+		android:padding="10dp">
+
+		<ru.facilicom24.manager.views.FontTextView
+			android:id="@+id/view2"
+			style="@style/BoldWhiteText14sp"
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"
+			android:layout_alignParentTop="true"
+			android:gravity="center"
+			android:text="@string/interactions"
+			android:textColor="@color/black"
+			android:textSize="18sp"/>
+
+		<RelativeLayout
+			android:id="@+id/linearLayout"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_below="@+id/view2"
+			android:layout_marginTop="10dp"
+			android:background="@android:color/white"
+			android:padding="10dp">
+
+			<TextView
+				android:id="@+id/date"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:layout_alignParentEnd="true"
+				android:layout_alignParentRight="true"
+				android:layout_marginLeft="10dp"
+				android:layout_marginStart="10dp"
+				android:text="Дата"
+				android:textColor="@color/dark_gray"
+				android:textSize="18sp"/>
+
+			<TextView
+				android:id="@+id/interaction_title"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_toLeftOf="@id/date"
+				android:layout_toStartOf="@id/date"
+				android:text="Дата акта"
+				android:textColor="@color/black"
+				android:textSize="18sp"/>
+
+		</RelativeLayout>
+
+		<ru.facilicom24.manager.views.FontButton
+			android:id="@+id/apply"
+			style="?attr/formButton"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_alignParentBottom="true"
+			android:text="@string/btn_act"/>
+
+		<ListView
+			android:id="@+id/main_menu"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_above="@id/apply"
+			android:layout_below="@id/linearLayout"
+			android:layout_marginBottom="10dp"
+			android:layout_marginTop="10dp"
+			android:cacheColorHint="@android:color/transparent"
+			android:divider="@android:color/transparent"
+			android:dividerHeight="1dp"
+			android:fadeScrollbars="false"
+			android:fadingEdge="none"
+			android:keepScreenOn="true"
+			android:listSelector="@android:color/transparent"
+			android:overScrollFooter="@android:color/transparent"
+			android:scrollbarStyle="outsideOverlay"/>
+
+	</RelativeLayout>
+</RelativeLayout>
